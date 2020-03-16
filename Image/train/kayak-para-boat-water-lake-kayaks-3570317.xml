@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>kayak-para-boat-water-lake-kayaks-3570317.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/kayak-para-boat-water-lake-kayaks-3570317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>852</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>432</ymin>
+			<xmax>822</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

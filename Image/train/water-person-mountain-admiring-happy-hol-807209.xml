@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>water-person-mountain-admiring-happy-hol-807209.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/water-person-mountain-admiring-happy-hol-807209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>646</ymin>
+			<xmax>1095</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+</annotation>

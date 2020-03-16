@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>kayak-kayaker-kayaking-oar-boat-sport-ac-168006.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/kayak-kayaker-kayaking-oar-boat-sport-ac-168006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>844</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>420</ymin>
+			<xmax>993</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

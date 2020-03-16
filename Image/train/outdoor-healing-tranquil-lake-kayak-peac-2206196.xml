@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>outdoor-healing-tranquil-lake-kayak-peac-2206196.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/outdoor-healing-tranquil-lake-kayak-peac-2206196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>544</ymin>
+			<xmax>709</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

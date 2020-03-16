@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>kayaker-kayak-kayaking-ocean-sea-75698.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/kayaker-kayak-kayaking-ocean-sea-75698.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>595</ymin>
+			<xmax>509</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>zrich-river-kayak-water-centre-zurich-s-300301.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/zrich-river-kayak-water-centre-zurich-s-300301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>850</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>693</xmin>
+			<ymin>656</ymin>
+			<xmax>763</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+</annotation>

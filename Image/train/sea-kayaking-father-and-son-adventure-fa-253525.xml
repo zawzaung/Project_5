@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>sea-kayaking-father-and-son-adventure-fa-253525.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/sea-kayaking-father-and-son-adventure-fa-253525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>851</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>474</ymin>
+			<xmax>1250</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>

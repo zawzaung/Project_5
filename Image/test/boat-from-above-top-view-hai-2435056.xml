@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>boat-from-above-top-view-hai-2435056.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/boat-from-above-top-view-hai-2435056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>387</ymin>
+			<xmax>426</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

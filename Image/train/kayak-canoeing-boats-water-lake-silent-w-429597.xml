@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>kayak-canoeing-boats-water-lake-silent-w-429597.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/kayak-canoeing-boats-water-lake-silent-w-429597.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>827</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>326</ymin>
+			<xmax>1176</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

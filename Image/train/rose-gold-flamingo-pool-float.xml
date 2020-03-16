@@ -1,0 +1,26 @@
+<annotation>
+	<folder>istock flamingo</folder>
+	<filename>rose-gold-flamingo-pool-float.jpg</filename>
+	<path>/Users/zaw/Desktop/istock flamingo/rose-gold-flamingo-pool-float.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>950</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flamingo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>167</ymin>
+			<xmax>949</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+</annotation>

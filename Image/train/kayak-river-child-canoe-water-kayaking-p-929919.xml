@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>kayak-river-child-canoe-water-kayaking-p-929919.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/kayak-river-child-canoe-water-kayaking-p-929919.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>368</ymin>
+			<xmax>1056</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

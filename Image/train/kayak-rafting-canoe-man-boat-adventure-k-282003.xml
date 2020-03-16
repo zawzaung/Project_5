@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>kayak-rafting-canoe-man-boat-adventure-k-282003.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/kayak-rafting-canoe-man-boat-adventure-k-282003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>277</ymin>
+			<xmax>1160</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

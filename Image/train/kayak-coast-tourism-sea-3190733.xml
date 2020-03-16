@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>kayak-coast-tourism-sea-3190733.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/kayak-coast-tourism-sea-3190733.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>481</ymin>
+			<xmax>1162</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

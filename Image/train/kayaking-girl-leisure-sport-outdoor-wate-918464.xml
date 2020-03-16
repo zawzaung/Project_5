@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>kayaking-girl-leisure-sport-outdoor-wate-918464.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/kayaking-girl-leisure-sport-outdoor-wate-918464.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>468</ymin>
+			<xmax>1033</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>

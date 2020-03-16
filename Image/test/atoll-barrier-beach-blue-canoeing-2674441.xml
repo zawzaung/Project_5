@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>atoll-barrier-beach-blue-canoeing-2674441.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/atoll-barrier-beach-blue-canoeing-2674441.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>516</ymin>
+			<xmax>1266</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+</annotation>

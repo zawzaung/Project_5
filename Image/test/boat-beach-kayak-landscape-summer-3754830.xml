@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>boat-beach-kayak-landscape-summer-3754830.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/boat-beach-kayak-landscape-summer-3754830.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>953</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>634</ymin>
+			<xmax>950</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>istock flamingo</folder>
+	<filename>f26.jpg</filename>
+	<path>/Users/zaw/Desktop/istock flamingo/f26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flamingo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>95</ymin>
+			<xmax>214</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flamingo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>83</ymin>
+			<xmax>394</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

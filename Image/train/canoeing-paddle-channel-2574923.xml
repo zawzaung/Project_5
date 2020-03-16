@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>canoeing-paddle-channel-2574923.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/canoeing-paddle-channel-2574923.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>852</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>664</ymin>
+			<xmax>995</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>

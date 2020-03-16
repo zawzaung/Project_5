@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>duck-sitting-floats-kayak-seat-3601384.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/duck-sitting-floats-kayak-seat-3601384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>326</ymin>
+			<xmax>648</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

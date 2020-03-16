@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>kayaking-kayak-activity-boat-paddle-summ-796790.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/kayaking-kayak-activity-boat-paddle-summ-796790.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1022</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>666</ymin>
+			<xmax>855</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>

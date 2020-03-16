@@ -1,0 +1,26 @@
+<annotation>
+	<folder>istock flamingo</folder>
+	<filename>Screen Shot 2020-03-09 at 11.02.53 AM.png</filename>
+	<path>/Users/zaw/Desktop/istock flamingo/Screen Shot 2020-03-09 at 11.02.53 AM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flamingo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>193</ymin>
+			<xmax>177</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>
