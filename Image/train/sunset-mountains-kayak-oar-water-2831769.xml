@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>sunset-mountains-kayak-oar-water-2831769.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/sunset-mountains-kayak-oar-water-2831769.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>524</ymin>
+			<xmax>817</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>kayak-paddling-water-lake-summer-nature--437418.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/kayak-paddling-water-lake-summer-nature--437418.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>468</ymin>
+			<xmax>901</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+</annotation>

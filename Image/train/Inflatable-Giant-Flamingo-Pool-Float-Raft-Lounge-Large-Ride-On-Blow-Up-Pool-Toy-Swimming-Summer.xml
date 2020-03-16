@@ -1,0 +1,26 @@
+<annotation>
+	<folder>istock flamingo</folder>
+	<filename>Inflatable-Giant-Flamingo-Pool-Float-Raft-Lounge-Large-Ride-On-Blow-Up-Pool-Toy-Swimming-Summer.jpg</filename>
+	<path>/Users/zaw/Desktop/istock flamingo/Inflatable-Giant-Flamingo-Pool-Float-Raft-Lounge-Large-Ride-On-Blow-Up-Pool-Toy-Swimming-Summer.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flamingo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>160</ymin>
+			<xmax>729</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

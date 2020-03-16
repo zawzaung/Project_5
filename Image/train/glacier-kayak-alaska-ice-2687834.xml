@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>glacier-kayak-alaska-ice-2687834.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/glacier-kayak-alaska-ice-2687834.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>926</ymin>
+			<xmax>746</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>

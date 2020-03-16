@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>sport-water-sports-kayak-kayak-kayak-kay-542429.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/sport-water-sports-kayak-kayak-kayak-kay-542429.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>503</ymin>
+			<xmax>814</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>

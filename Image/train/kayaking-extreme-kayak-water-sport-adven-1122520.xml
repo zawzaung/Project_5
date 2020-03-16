@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>kayaking-extreme-kayak-water-sport-adven-1122520.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/kayaking-extreme-kayak-water-sport-adven-1122520.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>109</ymin>
+			<xmax>962</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+</annotation>

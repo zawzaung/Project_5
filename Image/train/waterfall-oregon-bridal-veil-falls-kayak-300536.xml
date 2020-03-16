@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>waterfall-oregon-bridal-veil-falls-kayak-300536.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/waterfall-oregon-bridal-veil-falls-kayak-300536.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>856</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>191</ymin>
+			<xmax>614</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

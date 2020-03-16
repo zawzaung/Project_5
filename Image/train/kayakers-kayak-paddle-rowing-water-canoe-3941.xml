@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>kayakers-kayak-paddle-rowing-water-canoe-3941.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/kayakers-kayak-paddle-rowing-water-canoe-3941.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>512</ymin>
+			<xmax>1002</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>

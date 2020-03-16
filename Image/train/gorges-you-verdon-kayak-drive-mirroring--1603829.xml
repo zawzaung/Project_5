@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>gorges-you-verdon-kayak-drive-mirroring--1603829.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/gorges-you-verdon-kayak-drive-mirroring--1603829.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>359</ymin>
+			<xmax>804</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>adventure-boat-canoe-fun-kayak-lake-outd-1867074.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/adventure-boat-canoe-fun-kayak-lake-outd-1867074.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>854</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>569</ymin>
+			<xmax>742</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

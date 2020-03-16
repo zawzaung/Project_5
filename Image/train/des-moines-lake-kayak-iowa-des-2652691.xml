@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>des-moines-lake-kayak-iowa-des-2652691.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/des-moines-lake-kayak-iowa-des-2652691.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>491</xmin>
+			<ymin>684</ymin>
+			<xmax>626</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+</annotation>

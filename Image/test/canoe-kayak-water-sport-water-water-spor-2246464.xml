@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>canoe-kayak-water-sport-water-water-spor-2246464.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/canoe-kayak-water-sport-water-water-spor-2246464.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>814</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>449</ymin>
+			<xmax>927</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak_img</folder>
+	<filename>kayak-canoeing-wannsee-paddle-2795514.jpg</filename>
+	<path>/Users/zaw/Desktop/kayak_img/kayak-canoeing-wannsee-paddle-2795514.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>461</ymin>
+			<xmax>745</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

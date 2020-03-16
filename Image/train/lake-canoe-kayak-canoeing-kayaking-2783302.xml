@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kayak</folder>
+	<filename>lake-canoe-kayak-canoeing-kayaking-2783302.jpg</filename>
+	<path>/Users/zaw/Downloads/boat-types-recognition/kayak/lake-canoe-kayak-canoeing-kayaking-2783302.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kayak</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>345</ymin>
+			<xmax>1180</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>
